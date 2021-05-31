@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/nord-agile\/nord-agile\/welcome#startLayer-amphi"
+                 "value":"map.json#startLayer-amphi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -419,7 +419,7 @@
          "value":"Amphi"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -551,6 +551,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":24
 }
