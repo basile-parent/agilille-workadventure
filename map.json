@@ -338,7 +338,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/resources.basileparent.fr\/workadventure\/agilille\/programme.html"
+                 "value":"https:\/\/workadventure.agilille.fr\/agilille\/programme.html"
                 }],
          "type":"tilelayer",
          "visible":true,
