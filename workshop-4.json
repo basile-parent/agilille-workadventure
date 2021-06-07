@@ -506,7 +506,7 @@
         {
          "columns":11,
          "firstgid":1,
-         "image":"..\/tcm-client\/TCM\/paris-map\/tileset1.png",
+         "image":".\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -859,7 +859,7 @@
         {
          "columns":11,
          "firstgid":122,
-         "image":"..\/tcm-client\/TCM\/paris-map\/tileset1-repositioning.png",
+         "image":".\/tileset1-repositioning.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -1140,7 +1140,7 @@
         {
          "columns":12,
          "firstgid":243,
-         "image":"..\/tcm-client\/TCM\/paris-map\/tileset2.png",
+         "image":".\/tileset2.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -1646,7 +1646,7 @@
         {
          "columns":10,
          "firstgid":363,
-         "image":"..\/tcm-client\/TCM\/paris-map\/tileset3.2.png",
+         "image":".\/tileset3.2.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
