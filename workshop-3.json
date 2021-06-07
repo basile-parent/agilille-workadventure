@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#startLayer-workshop-1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-1"
+                 "value":"workshop-1-tp1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -70,7 +70,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-2"
+                 "value":"workshop-1-tp-2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -98,7 +98,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-3"
+                 "value":"workshop-1-tp-3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -126,7 +126,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-4"
+                 "value":"workshop-1-tp-4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -154,7 +154,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-5"
+                 "value":"workshop-1-tp-5"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -182,7 +182,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-6"
+                 "value":"workshop-1-tp-6"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -210,7 +210,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-7"
+                 "value":"workshop-1-tp-7"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -238,7 +238,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-8"
+                 "value":"workshop-1-tp-8"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -266,7 +266,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-9"
+                 "value":"workshop-1-tp-9"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -294,7 +294,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-10"
+                 "value":"workshop-1-tp-10"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -322,7 +322,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tp-11"
+                 "value":"workshop-1-tp-11"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -350,7 +350,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true } "
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false } "
                 }, 
                 {
                  "name":"jitsiRoom",
