@@ -228,7 +228,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"workshop-2.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/nord-agile\/nord-agile\/workshop-1"
                 }],
          "type":"tilelayer",
          "visible":true,
