@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startLayer-workshop-1"
+                 "value":"map.json#startLayer-workshop-2"
                 }],
          "type":"tilelayer",
          "visible":true,
