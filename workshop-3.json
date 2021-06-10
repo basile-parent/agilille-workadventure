@@ -445,7 +445,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/1N1lDrtQTpjsqTDVZ9LPQvssAaDTukNiDiMXkwP7TWg4\/edit#slide=id.p"
                 }],
          "type":"tilelayer",
          "visible":true,
