@@ -558,7 +558,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/miro.com\/app\/board\/o9J_l_OGxRM=\/?moveToWidget=3074457360125830245&cot=14"
+                 "value":"https:\/\/miro.com\/app\/live-embed\/o9J_l_OGxRM=\/?moveToViewport=-412,-280,1535,749"
                 }],
          "type":"tilelayer",
          "visible":true,
