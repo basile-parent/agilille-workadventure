@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startLayer-workshop-2"
+                 "value":"https:\/\/play.workadventu.re\/@\/nord-agile\/nord-agile\/welcome#startLayer-workshop-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -518,7 +518,7 @@
          "value":"Classroom"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
