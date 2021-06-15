@@ -390,7 +390,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"workshop-4.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/nord-agile\/nord-agile\/workshop-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -426,7 +426,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"workshop-3.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/nord-agile\/nord-agile\/workshop-1"
                 }],
          "type":"tilelayer",
          "visible":true,
