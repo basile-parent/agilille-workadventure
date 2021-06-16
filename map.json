@@ -573,7 +573,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSlukX4ViKvvcQ8TW5y_ahe1chISHSjyMq7ud83vFSimVf8XIYF9qAG0szYpkxaSPwKGkK0RpgKX4Vb\/pub?start=false&loop=false&delayms=3000"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSlukX4ViKvvcQ8TW5y_ahe1chISHSjyMq7ud83vFSimVf8XIYF9qAG0szYpkxaSPwKGkK0RpgKX4Vb\/embed?start=false&loop=false&delayms=3000"
                 }, 
                 {
                  "name":"silent",
