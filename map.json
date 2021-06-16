@@ -619,7 +619,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kahoot.it\/challenge\/01891436?challenge-id=a999f32d-3009-4e5d-bdd2-76a8bae78156_1623488898094"
+                 "value":"https:\/\/miro.com\/app\/live-embed\/o9J_l-uAf0w=\/"
                 }, 
                 {
                  "name":"silent",
@@ -665,7 +665,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/app\/live-embed\/o9J_l_OGxRM=\/?moveToViewport=-412,-280,1535,749"
+                 "value":"https:\/\/miro.com\/app\/live-embed\/o9J_l_OGxRM=\/"
                 }, 
                 {
                  "name":"silent",
@@ -897,7 +897,7 @@
          "value":"Welcome"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1355,6 +1355,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":74
 }
