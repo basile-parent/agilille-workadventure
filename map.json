@@ -336,7 +336,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"amphi.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/nord-agile\/nord-agile\/amphi"
                 }],
          "type":"tilelayer",
          "visible":true,

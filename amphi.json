@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startLayer-amphi"
+                 "value":"https:\/\/play.workadventu.re\/@\/nord-agile\/nord-agile\/welcome#startLayer-amphi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -396,7 +396,7 @@
          "value":"Amphi"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -528,6 +528,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":24
 }
