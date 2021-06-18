@@ -505,7 +505,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vTt_ikOKhkArMeyQrdUcAUZ-lBdU7VmCwMByIC8hIFvFxXoAhAM65z-IdIXsJarspWmZwz6WZJauZO1\/embed?start=true&loop=true&delayms=3000"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vR7oR8v-9CeqkCBTPOjI9XZW9v0O6NXHoTqChpMW2-g0tHCLe59sUpwx2FQ9QPbwihCLmHO2q_ZyqxI\/pub?start=true&loop=true&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -578,7 +578,7 @@
          "value":"Classroom"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1899,6 +1899,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":37
 }
